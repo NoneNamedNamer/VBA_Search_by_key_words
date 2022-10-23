@@ -1,0 +1,7 @@
+If you have a problem with launching browser by activating macros check the drivers and your browser.
+
+Always activate the Selenium Type Library in the references. Browse it to the folder SeleniumBasic in the project with file Selenium64.tlb.
+
+This program is for Chrome browser. So change active drivers from SeleniumBasic folder on drivers as on your browser. You can change drivers if you want.
+
+Some CSS elements can be changed by the developers of browser. Be careful and check the code with CSS elements in the panel for developers in browser.
