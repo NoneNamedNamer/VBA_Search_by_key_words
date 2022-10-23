@@ -2,4 +2,4 @@
 
 This project shows possibilities of search engines and work of VBScript.
 With this project you can search not only for disciplines. You can search for anything else.
-Check file 
+Check file CheckBeforeLaunching.txt for understanding some components of the project.
